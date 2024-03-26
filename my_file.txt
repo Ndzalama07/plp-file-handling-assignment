@@ -1,0 +1,8 @@
+movies are great 
+books aswell 
+777 
+1212:the day
+file-handling
+TDD
+handling exceptions
+python
